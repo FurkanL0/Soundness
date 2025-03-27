@@ -33,6 +33,8 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 sudo apt install -y protobuf-compiler
 ```
 
+## Rust ; 
+
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
