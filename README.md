@@ -15,6 +15,10 @@
 | **PQ**      | [Link](https://pq.hosting/?from=627713)                  | Cheap / Crypto Payment |
 | **NetCup**          | [Link](https://www.netcup.com/en/?ref=261820) | Cheap / Paypal |
 
+## Project : 
+- Twitter : https://x.com/SoundnessLabs
+- Discord : discord.gg/qXwDb2X4
+
 
 ## 1. Server Update : 
 
