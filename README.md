@@ -17,7 +17,7 @@
 
 ## Project : 
 - Twitter : https://x.com/SoundnessLabs
-- Discord : discord.gg/qXwDb2X4
+- Discord : https://discord.gg/qXwDb2X4
 
 
 ## 1. Server Update : 
