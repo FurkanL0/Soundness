@@ -99,6 +99,7 @@ soundness-cli import-key --name my-key --mnemonic "cüzdankelimeleriniz"
 #### Key Store Dosyası Kaydedin.
 
 - Sunucuya SFTP ile bağlanın.
+- Codespace ise solda dosyalar olur oradan gösterilen dosyayı indirin. Direk root altında olur.
 
 <img width="954" height="231" alt="image" src="https://github.com/user-attachments/assets/b298c057-ce3a-4e45-b687-152dd88ad901" />
 
