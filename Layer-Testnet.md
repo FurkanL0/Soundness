@@ -79,6 +79,13 @@ soundness-cli import-key --name my-key --mnemonic "cüzdankelimeleriniz"
 
 - Cüzdan için bir şifre isteyecek - unutmayacağınız bir şifre olsun.
 
+#### Key Store Dosyası Kaydedin.
+
+- Sunucuya SFTP ile bağlanın.
+
+<img width="954" height="231" alt="image" src="https://github.com/user-attachments/assets/b298c057-ce3a-4e45-b687-152dd88ad901" />
+
+- Key Store Dosyasını bilgisayarınıza kaydedin önemli.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
