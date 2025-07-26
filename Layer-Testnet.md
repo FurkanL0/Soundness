@@ -66,7 +66,7 @@ soundnessup install
 soundnessup update
 ```
 
-## Cüzdan Oluşturma
+## Oluşturduğumuz Cüzdanı İçeri Atma ; 
 
 - Cüzdan İçeri Aktarma Komutu ; 
 
