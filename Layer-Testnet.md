@@ -74,6 +74,9 @@ soundnessup update
 soundness-cli import-key --name my-key --mnemonic "cüzdankelimeleriniz"
 ```
 
+<img width="1585" height="153" alt="image" src="https://github.com/user-attachments/assets/8da4ce9b-15cc-4fb5-9a3e-f965ef4ccd38" />
+
+
 - Cüzdan için bir şifre isteyecek - unutmayacağınız bir şifre olsun.
 
 
