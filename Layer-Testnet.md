@@ -2,12 +2,6 @@
 
 ![1500x500](https://github.com/user-attachments/assets/6411da65-2338-4de9-8ac1-501c845e2a29)
 
-| X        | Minimum              |
-|------------------|----------------------------|
-| **CPU**          | x |
-| **RAM**          | x GB                     |
-| **Storage**      | x+ GB SDD                   |
-| **Network**      | 100 Mbps (1 Gbps+ recommended) |
 
 | Server Provider        | Link              | Features |
 |------------------|----------------------------|----------------------------|
@@ -74,47 +68,13 @@ soundnessup update
 
 ## Cüzdan Oluşturma
 
-- Cüzdan Oluşturma Komutu ; 
+- Cüzdan İçeri Aktarma Komutu ; 
 
 ```bash
-soundness-cli generate-key --name my-key
+soundness-cli import-key --name my-key --mnemonic "cüzdankelimeleriniz"
 ```
 
-![image](https://github.com/user-attachments/assets/2b4ef606-bf79-410f-9a3d-bd734ca7b9d7)
-
-
-- Save mnemonic yazısının altında cüzdan kelimleriniz var kaydedin
-- Cüzdanı korumak için bir şifre yazın - sonra enterleyip yeniden onay için yazın.
-- Serverlarda şifre ayarlarken şifreler gözükmez. Yazmıyor gibi olur ama yazar.
-
-## Public Keyinizi Discordda Paylaşın ; 
-```bash
-!access public-key
-```
-![image](https://github.com/user-attachments/assets/d368c41c-dc3f-4e07-aa50-fef56c2141a2)
-
-![image](https://github.com/user-attachments/assets/040cfbb7-fe7d-4513-8f58-6de1c66a96a5)
-
-- Mis
-
-## Diğer Komutlar ; 
-
-- Cüzdanı içeri importlamak için ; 
-```bash
-soundness-cli import-key --name my-key
-```
-
-- Cüzdanları Listelemek için ; 
-
-```bash
-soundness-cli list-keys
-```
-
-- İçerdeki Cüzdanın kelimelerini çıkarmak için ; 
-
-```bash
-soundness-cli export-key --name my-key
-```
+- Cüzdan için bir şifre isteyecek - unutmayacağınız bir şifre olsun.
 
 
 <p align="center">
