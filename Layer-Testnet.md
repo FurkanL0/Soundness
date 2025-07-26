@@ -85,6 +85,16 @@ soundness-cli import-key --name my-key --mnemonic "cüzdankelimeleriniz"
 
 <img width="643" height="347" alt="image" src="https://github.com/user-attachments/assets/df1214a9-0fdc-4922-a4bf-6126a9091802" />
 
+- Örnek ; 
+
+<img width="922" height="110" alt="image" src="https://github.com/user-attachments/assets/e6c274e3-6cc4-441d-9962-2c87d7682f45" />
+
+- Sonrasında Komutu Yapıştırıp Enterleyin.
+
+<img width="663" height="349" alt="image" src="https://github.com/user-attachments/assets/b7b689ea-1fe4-469a-9d81-d05056c074fa" />
+
+- Sucsess Mis Gibi.
+
 
 #### Key Store Dosyası Kaydedin.
 
