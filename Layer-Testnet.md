@@ -79,6 +79,13 @@ soundness-cli import-key --name my-key --mnemonic "cüzdankelimeleriniz"
 
 - Cüzdan için bir şifre isteyecek - unutmayacağınız bir şifre olsun.
 
+#### Proof ; 
+
+- Discord'da size botun verdiği CLI mesajını kopyalayın. Cüzdan ismi soruyor ok ile gösterdiğim kısımda. Oraya my-key yazın.
+
+<img width="643" height="347" alt="image" src="https://github.com/user-attachments/assets/df1214a9-0fdc-4922-a4bf-6126a9091802" />
+
+
 #### Key Store Dosyası Kaydedin.
 
 - Sunucuya SFTP ile bağlanın.
